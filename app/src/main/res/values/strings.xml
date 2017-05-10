@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PullRefresh</string>
+    <string name="loading_prompt">正在加载数据</string>
+</resources>
